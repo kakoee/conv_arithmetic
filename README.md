@@ -70,7 +70,7 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
     <td></td>
   </tr>
   <tr>
-    <td> <img width="150px" src="GlqLM.png">
+    <td> <img  src="GlqLM.png">
     </td>
   </tr>
 </table>
